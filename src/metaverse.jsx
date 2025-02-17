@@ -306,7 +306,7 @@ const OfficeTower = ({ position }) => (
 );
 
 // Tree Component (needed for grid)
-const Tree = ({ position }) => (
+const Tree2 = ({ position }) => (
   <group position={position}>
     <mesh position={[0, 0.3, 0]} castShadow>
       <cylinderGeometry args={[0.05, 0.05, 0.6]} />
@@ -319,7 +319,7 @@ const Tree = ({ position }) => (
   </group>
 );
   
-const Tree2 = ({ position }) => {
+const Tree = ({ position }) => {
   const treeType = React.useMemo(() => {
     return Math.floor(Math.random() * 3);
   }, []);
