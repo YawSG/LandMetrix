@@ -1,7 +1,7 @@
 import React, { useState, Suspense, useRef, useEffect } from 'react';
 import * as THREE from 'three';
 import { Canvas, useFrame } from '@react-three/fiber';
-import { OrbitControls } from '@react-three/drei';
+import { OrbitControls } from '@react-three/drei'; 
 import {
   Box,
   Typography,
