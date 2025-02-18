@@ -1,2 +1,2 @@
 # LandMetrix
-
+LandMetrix: A comprehensive land valuation and management platform designed to assist with the implementation of Land Value Taxation. Key features include a 3D interactive map with multiple viewing modes, dynamic land valuation algorithms, proximity-based factors, zoning and land use data layers, and detailed user interfaces to improve land valuation accuracy and facilitate decision-making. LandMetrix empowers urban planners, policymakers, and businesses by visualising complex data and providing actionable insights for land valuation and strategic planning.
